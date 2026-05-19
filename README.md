@@ -23,7 +23,7 @@ designed to transfer to Tribal stewardship, not to create dependency on us.
 
 **We convene.** A hackathon series across Indian Country, working toward the 
 first National Tribal Hackathon with a dedicated Tribal data sovereignty 
-track — where participants leave with concrete actions on their own data, 
+track where participants leave with concrete actions on their own data, 
 not just certificates.
 
 ## Active Repositories
