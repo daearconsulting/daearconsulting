@@ -1,45 +1,74 @@
 # Daear Consulting, LLC
+**Earth data science for Indian Country, built with Tribal data sovereignty 
+from day one.**
 
-**Sovereignty-Aligned Data Infrastructure | Tribal Data Sovereignty | Geospatial Analytics | AI-Integrated Governance**
+We build open-source tools, teach Earth data science at Tribal Colleges and 
+Universities, and develop governance-aware data infrastructure for Tribal 
+Nations and mission-driven partners. Our work is grounded in the territories 
+and communities we serve, not extracted from them.
 
-We build **practical, governance-aware data systems** for Tribal Nations and mission-driven organizations. Unlike most firms that focus on policy or standards, we **turn governance principles into operational pipelines** that embed **consent, stewardship, and community control** directly into technical workflows.
+*Lilly Jones, PhD|[daearconsulting@gmail.com](mailto:daearconsulting@gmail.com)*
 
-### Our Core Expertise
+## What We Do
+**We teach.** Earth data science workshops at TCUs, Tribal land and water 
+offices, and with community members. The repositories in this organization 
+are curriculum as much as they are research infrastructure. We partner with 
+AIHEC, MS-CC and other partners to reach Indigenous students and practitioners 
+across Indian Country.
 
-- **Tribal Data Sovereignty Implementation** – Respecting community governance in every system  
-- **Geospatial & Remote Sensing Analytics** – Land-based data systems and spatial intelligence  
-- **AI/ML Integration** – Machine learning pipelines built with governance in mind  
-- **Cloud & HPC Infrastructure** – Scalable, reproducible, and secure systems  
-- **Governance-Aware Metadata** – Aligned with **OCAP®**, **CARE**, and community-defined protocols  
+**We build.** Open-source geospatial toolkits, environmental monitoring 
+series, AI-assisted historical reconstruction tools, and governance-aware 
+data pipelines. Everything is built on public data, fully reproducible, and 
+designed to transfer to Tribal stewardship, not to create dependency on us.
 
-**We operate at the intersection of technical excellence and ethical stewardship.**  
-[Learn More →](#about-us)
+**We convene.** A hackathon series across Indian Country, working toward the 
+first National Tribal Hackathon with a dedicated Tribal data sovereignty 
+track — where participants leave with concrete actions on their own data, 
+not just certificates.
 
-## About Us
-Daear Consulting, LLC is a technical research and implementation lab specializing in **Tribal data sovereignty**, **geospatial analytics**, and **AI-integrated governance systems**. We transform standards and policy frameworks into **operational pipelines** that embed **consent, governance, and ethical stewardship** directly into technical workflows.
+## Active Repositories
 
-Our team bridges **geospatial science**, **cloud/HPC infrastructure**, **AI/ML systems**, and **governance-aware metadata**, ensuring that **OCAP®**, **CARE**, FAIR, IEEE P2890/D1 and community-defined data protocols are operationalized effectively.
+| Repository | Focus |
+|---|---|
+| [tribal_water_monitoring](link) | Groundwater, streamflow, and water quality monitoring |
+| [tribal_fire_science](link) | Post-fire watershed vulnerability across Tribal territories |
+| [tribal_ag_sd](link) | Agricultural Earth data science |
+| [local_contexts_geospatial](link) | Python toolkit: TK/BC labels machine-readable in geospatial workflows |
+| [tribal_datacube_tutorial](link) | Earth data cube methods for Tribal land analysis |
 
-## Services
-- **Tribal Data Sovereignty Implementation** – Building systems that respect community governance and consent  
-- **Geospatial Data Engineering** – Remote sensing workflows, spatial data pipelines, and analytics  
-- **AI/ML Integration** – Machine learning models embedded in governance-aware infrastructure  
-- **Cloud & HPC Solutions** – Scalable, reproducible, and secure pipelines  
-- **Governance-Aware Metadata Systems** – CARE, OCAP®, and community-aligned data models  
+## Data Sovereignty and How We Work
+Every repository implements these frameworks from the first line of code:
 
-## Why Choose Daear Consulting
-We are not just policy advisors, we are **technical implementers**. Our clients benefit from:
+| Framework | What it does in our work |
+|---|---|
+| **OCAP®** | Ownership, Control, Access, Possession: community authority over data describing their territory |
+| **CARE Principles** | Collective Benefit, Authority to Control, Responsibility, Ethics: the ethical obligations that FAIR alone does not cover |
+| **Local Contexts** | TK and BC labels embedded in data pipelines so they travel with data through transformations |
+| **IEEE 2890-2025** | Provenance of Indigenous Peoples' Data: every record documents its source, steward, and governance status |
+| **FAIR** | Findable, Accessible, Interoperable, Reusable: the technical baseline |
 
-- **Deep technical expertise** in data pipelines and infrastructure  
-- **Governance-aware system design** aligned with Tribal and federal requirements  
-- **Hands-on training** for internal teams  
-- **Interdisciplinary knowledge** at the intersection of geospatial science and AI  
-- **Proven experience** in both federal and Tribal contexts  
+We hold a researcher account with Local Contexts and are actively building 
+pathways for our Tribal partners to authorize labels on their own data 
+through the Local Contexts Hub.
 
-## Contact
-Interested in **sovereignty-aligned data infrastructure** or **AI-integrated governance solutions**?  
+## Working With Us
+We work with Tribal Nations, TCUs, federal agencies, and research 
+institutions on:
 
-📧 [Email Us](mailto:daearconsulting@gmail.com)  
+- **Environmental monitoring systems** : water, fire, habitat, land cover — 
+  built under Tribal governance frameworks
+- **Historical reconstruction** : mining, land use, disturbance — grounded 
+  in territorial and treaty context
+- **Earth data science curriculum** : workshops, short courses, and open 
+  repositories designed for Indigenous contexts
+- **Governance-aware data infrastructure** : OCAP®/CARE/IEEE 2890-2025 
+  implementation in operational pipelines
+- **Hackathon design and facilitation** : regional and national events with 
+  a Tribal data sovereignty track
 
-## Keywords
-Tribal data sovereignty, OCAP, CARE, FAIR, IEEE P2890/D1, geospatial analytics, AI governance, machine learning pipelines, cloud infrastructure, HPC, data stewardship, governance-aware metadata, ethical data systems, Tribal Nations, mission-driven organizations
+If you are a Tribal Nation or organization exploring what data sovereignty 
+looks like in practice we want to hear from you.
+
+📧 [daearconsulting@gmail.com](mailto:daearconsulting@gmail.com)
+
+*Daear (day-ar) is the Welsh word for earth.*
