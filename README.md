@@ -8,7 +8,7 @@ Universities, and develop governance-aware data infrastructure for Tribal
 Nations and mission-driven partners. Our work is grounded in the territories
 and communities we serve, not extracted from them.
 
-*James Sanovia, MS and Lilly Jones, PhD | [daearconsulting@gmail.com](mailto:daearconsulting@gmail.com)*
+*James Sanovia, MS and Lilly Jones, PhD*
 
 ## What We Do
 **We teach.** Earth data science workshops at TCUs, Tribal land and water
