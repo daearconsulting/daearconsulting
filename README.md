@@ -80,3 +80,5 @@ looks like in practice, we want to hear from you.
 
 
 *Daear (day-ar) is the Welsh word for earth.*
+
+If you are looking for our academic work, visit [Lilly's GitHub](https://github.com/lijo8146) or [Jim's GitHub](https://github.com/HeSapa9).
