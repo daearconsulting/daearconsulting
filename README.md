@@ -11,18 +11,21 @@ and communities we serve, not extracted from them.
 *James Sanovia, MS and Lilly Jones, PhD*
 
 ## What We Do
-**We teach.** Earth data science workshops at TCUs, Tribal land and water
+**We teach.** 
+Earth data science workshops at TCUs, Tribal land and water
 offices, and with community members. The repositories in this organization
 are curriculum as much as they are research infrastructure. We partner with
 AIHEC, MS-CC and other partners to reach Indigenous students and practitioners
 across Indian Country.
 
-**We build.** Open-source geospatial toolkits, environmental monitoring
+**We build.** 
+Open-source geospatial toolkits, environmental monitoring
 series, AI-assisted historical reconstruction tools, and governance-aware
 data pipelines. Everything is built on public data, fully reproducible, and
 designed to transfer to Tribal stewardship, not to create dependency on us.
 
-**We convene.** A hackathon series across Indian Country, working toward the
+**We convene.** 
+A hackathon series across Indian Country, working toward the
 first National Tribal Hackathon with a dedicated Tribal data sovereignty
 track where participants leave with concrete actions on their own data,
 not just certificates.
