@@ -38,7 +38,7 @@ not just certificates.
 | Repository | Focus |
 |---|---|
 | [tribal_water_monitoring](link) | Groundwater, streamflow, and water quality monitoring |
-| [tribal_fire_science](link) | Post-fire watershed vulnerability across Tribal territories |
+| [tribal_fire_science](https://github.com/daearconsulting/tribal_fire_science) | Post-fire watershed vulnerability across Tribal territories |
 | [tribal_ag_sd](link) | Agricultural Earth data science, traditional plants, and bison habitat restoration |
 | [local_contexts_geospatial](link) | Python toolkit: TK/BC labels machine-readable in geospatial workflows |
 | [tribal_datacube_tutorial](link) | Earth data cube methods for Tribal land analysis |
