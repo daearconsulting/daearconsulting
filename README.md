@@ -22,7 +22,7 @@ across Indian Country.
 **We build.** 
 
 Open-source geospatial toolkits, environmental monitoring
-series, AI-assisted historical reconstruction tools, and governance-aware
+series, historical reconstruction tools, and governance-aware
 data pipelines. Everything is built on public data, fully reproducible, and
 designed to transfer to Tribal stewardship, not to create dependency on us.
 
