@@ -33,18 +33,6 @@ first National Tribal Hackathon with a dedicated Tribal data sovereignty
 track where participants leave with concrete actions on their own data,
 not just certificates.
 
-## Active Repositories
-
-| Repository | Focus |
-|---|---|
-| [tribal_water_monitoring](https://github.com/daearconsulting/tribal_water_monitoring) | Groundwater, streamflow, and water quality monitoring |
-| [tribal_fire_science](https://github.com/daearconsulting/tribal_fire_science) | Post-fire watershed vulnerability across Tribal territories |
-| [tribal_ag_sd](https://github.com/daearconsulting/Tribal_agricultural_science) | Agricultural Earth data science, traditional plants, and bison habitat restoration |
-| [Indigenous Data Sovereignty](https://github.com/daearconsulting/TEK_labels_and_IDSov) | Python toolkit: TK/BC labels machine-readable in geospatial workflows |
-| [tribal_datacube_tutorial](link) | Earth data cube methods for Tribal land analysis |
-| [Ed-py](https://github.com/daearconsulting/Ed-py) | Tutorials, lessons, notebooks for students |
-| [Tribal_soils_geology](https://github.com/daearconsulting/Tribal_soils_geology) | Soils and geology |
-
 ## Data Sovereignty and How We Work
 Every repository implements these frameworks from the first line of code:
 
